@@ -7,7 +7,7 @@ The project is split into two parts:
 - **Backend (Node.js + Express):** Manages users and products, storing data in JSON files.
 
 ## Features
-- Product catalog (cakes, cookies, pastries) from JSON file
+- Products catalog (cakes, cookies, pastries) from JSON file
 - Shopping cart sidebar with checkout option
 - User registration & login (stored in JSON file)
 - Access control – certain components (e.g. NavBar, ProductList) only visible to logged-in users
